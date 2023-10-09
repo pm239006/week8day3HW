@@ -1,0 +1,22 @@
+{
+  "name": "week_8proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/uuid": "^9.0.4",
+    "live-server": "^1.2.2",
+    "npm-run-all": "^4.1.5",
+    "ts-loader": "^9.4.4",
+    "uuid": "^9.0.1",
+    "uuid4": "^2.0.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
